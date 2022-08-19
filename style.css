@@ -12,6 +12,7 @@ body {
     position: relative;
     height: 115vh;
     overflow: hidden;
+    padding-top: 30px;
 }
 
 #container {
